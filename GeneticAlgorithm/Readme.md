@@ -26,6 +26,7 @@ $$
 
 该函数的最小值为
 $$f(0,0)=0$$
+![](https://github.com/wolfbrother/HeuristicApproach/blob/master/GeneticAlgorithm/_pic1.png?raw=true)
 
 ##一个变量的二进制串位数的确定
 
@@ -39,6 +40,6 @@ $$f(0,0)=0$$
 在程序中可表示为$$ m = \lceil\log_2 N\rceil = \left\lceil\log_2 (\lceil\frac{a-b}{p}\rceil+1)\right\rceil $$ 
 
 ## 效果图
-![](https://github.com/wolfbrother/HeuristicApproach/blob/master/GeneticAlgorithm/_pic1.png?raw=true)
+![](https://github.com/wolfbrother/HeuristicApproach/blob/master/GeneticAlgorithm/_pic2.png?raw=true)
 
 

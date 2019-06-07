@@ -1,6 +1,8 @@
-mport numpy as np
+# coding=UTF-8
+
+
+import numpy as np
 import matplotlib.pyplot as plt
-%pylab
 coordinates = np.array([[565.0,575.0],[25.0,185.0],[345.0,750.0],[945.0,685.0],[845.0,655.0],
                         [880.0,660.0],[25.0,230.0],[525.0,1000.0],[580.0,1175.0],[650.0,1130.0],
                         [1605.0,620.0],[1220.0,580.0],[1465.0,200.0],[1530.0,  5.0],[845.0,680.0],
@@ -81,7 +83,7 @@ while iter < itermax:
 
             cumsumprobtrans -= np.random.rand()
 
-            k = listunvisited[find(cumsumprobtrans>0)[0]] #下一个要访问的城市
+            k = listunvisited[np.where(cumsumprobtrans>0)[0][0]] #下一个要访问的城市
 
             pathtable[i,j] = k
 

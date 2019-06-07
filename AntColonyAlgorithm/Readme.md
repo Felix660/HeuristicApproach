@@ -28,3 +28,8 @@ P_{ij}^k=
     0,&\mathrm{其他}
   \end{cases}
 \end{eqnarray*}
+
+
+## 效果图
+![](https://github.com/wolfbrother/HeuristicApproach/blob/master/AntColonyAlgorithm/_pic1.png?raw=true)
+![](https://github.com/wolfbrother/HeuristicApproach/blob/master/AntColonyAlgorithm/_pic2.png?raw=true)

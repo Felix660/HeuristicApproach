@@ -222,3 +222,8 @@
      </tr>
 </tfoot>
 </table>
+
+## 效果图
+
+![](https://github.com/wolfbrother/HeuristicApproach/blob/master/BPNeuralNetwork/_pic1.png?raw=true)
+![](https://github.com/wolfbrother/HeuristicApproach/blob/master/BPNeuralNetwork/_pic2.png?raw=true)
